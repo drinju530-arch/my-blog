@@ -1,0 +1,5 @@
+{
+  "name": "CalcVault",
+  "description": "A fully functional calculator that doubles as a secure privacy vault for your notes and photos. Enter your PIN and press '=' to unlock the hidden interface.",
+  "requestFramePermissions": []
+}
